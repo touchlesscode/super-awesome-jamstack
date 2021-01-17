@@ -1,7 +1,10 @@
 ## Gatsby Site Showcase
+Built using https://gatsbyjs.com (the future of the web). Nike, Impossible Foods, and other major brands are moving to this technology for superior SEO results and conversion rates.
+
 ### Auto
 - [Orange Motor Group](https://www.orangemotorgroup.com.au) - Uses Digital Ocean
-- [Motorserve](motorserve.com.au) - Polished design, very fast
+- [Motorserve](https://motorserve.com.au) - Polished design, very fast
+- [Motorfleet](https://motorfleet.com.au) - Novated leasing. Sleek design.
 - [Vally Ford](https://valleyford.ca) - Such a smooth experience
 - [Scholfield Honda](https://www.scholfieldhonda.com) - Fast experience, with some accessibility
 - [Zero Motorcycles](https://www.zeromotorcycles.com) - Lovely motion and design. Focuses on design vs performance.
