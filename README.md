@@ -3,14 +3,14 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br /><br />
   <p>
-    <strong>Awesome Touchless JAMstack List<br />
+    <strong>Awesome Touchless JAMstack List</strong><br />
     Our curated list of JAMstack libaries, full stack libraries and favourite repos. Som
   </p>
   <br /><br />
   <p>
     <i>
-      You might also like:<br>
-       <a href="https://github.com/automata/awesome-jamstack">Awesome JAMstack</a> (a number of these have come from this resource).
+      You might also like:<br><br>
+       <a href="https://github.com/automata/awesome-jamstack">Awesome JAMstack</a> (a number of these have come from this resource).<br>
        <a href="https://github.com/myles/awesome-static-generators">Awesome Static Generators</a>.
     </i>
   </p>
