@@ -67,9 +67,9 @@
 ### Community
 - [Meetup](https://www.meetup.com) - Main public site pages puilt on Gatsby
 
-### Startup
-- [leavemealone] (https://www.leavemealone.app) - Simple landing page in Gatsby
-- [Aditus] (https://www.aditus.io) - Simple landing page in Gatsby
+### Landing Page
+- [Leave Me Alone](https://www.leavemealone.app) - Simple landing page in Gatsby
+- [Aditus](https://www.aditus.io) - Simple landing page in Gatsby
 
 ### Tech
 - [Snap Kit](https://kit.snapchat.com) - Just lovely. Built on Gatsby
