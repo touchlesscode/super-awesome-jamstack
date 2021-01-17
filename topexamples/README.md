@@ -2,6 +2,7 @@
 Built using https://gatsbyjs.com (the future of the web). Nike, Impossible Foods, and other major brands are moving to this technology for superior SEO results and conversion rates.
 
 ### Auto
+- [Mercedes-Benz South Africa](https://www.mercedes-benz.co.za) - Doesn't use Gatsby to fullest but has launched a version 1
 - [Orange Motor Group](https://www.orangemotorgroup.com.au) - Uses Digital Ocean
 - [Motorserve](https://motorserve.com.au) - Polished design, very fast
 - [Motorfleet](https://motorfleet.com.au) - Novated leasing. Sleek design.
